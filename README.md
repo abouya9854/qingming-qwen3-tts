@@ -4,7 +4,7 @@
 
 The project targets concrete 24GB desktop GPUs and builds the execution path around those devices instead of routing model operators through a general-purpose deep-learning runtime.
 
-The stable runtime contract is documented in [`契约.md`](./契约.md).
+The stable runtime contract is documented in [`CONTRACT.md`](./CONTRACT.md).
 
 ---
 
@@ -523,7 +523,7 @@ For a Resident process, use:
 --lifecycle resident
 ```
 
-and follow the JSON-line request contract documented in [`契约.md`](./契约.md).
+and follow the JSON-line request contract documented in [`CONTRACT.md`](./CONTRACT.md).
 
 ---
 
