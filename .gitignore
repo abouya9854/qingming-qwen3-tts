@@ -1,0 +1,28 @@
+# Build
+build/
+cmake-build-*/
+
+# Models
+models/
+
+# Benchmark output
+benchmark-*/
+benchmark-*.json
+benchmark-*.txt
+
+# Generated audio
+*.wav
+!clone.wav
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.DS_Store
