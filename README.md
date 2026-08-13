@@ -339,7 +339,7 @@ Additional constraints:
 qingming-qwen3-tts/
 ├── CMakeLists.txt
 ├── README.md
-├── 契约.md
+├── CONTRACT.md
 ├── LICENSE
 ├── download.sh
 ├── main.cpp
